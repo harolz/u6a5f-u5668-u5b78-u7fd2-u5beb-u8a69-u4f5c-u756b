@@ -1,0 +1,12 @@
+[submodule "coscup_nndl"]
+	path = 機器學習簡介
+	url = https://github.com/ckmarkoh/coscup_nndl
+[submodule "AcrosticPoem"]
+	path = 藏頭詩產生器
+	url = https://github.com/ckmarkoh/AcrosticPoem
+[submodule "AcrosticPoem-RNNPG"]
+	path = 電腦賦詩
+	url = https://github.com/ckmarkoh/AcrosticPoem-RNNPG
+[submodule "neuralart_tensorflow"]
+	path = 電腦作畫
+	url = https://github.com/ckmarkoh/neuralart_tensorflow
